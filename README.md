@@ -1,4 +1,4 @@
-# UberAnalyticsCoding
+# Uber Data Analytics Projects
 Coding files used for data analytics in Uber 
 
 This repository will neither display nor include any confidential Uber data. 
